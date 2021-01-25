@@ -1,4 +1,4 @@
-Hi! 
+Hi! I'm a hobbyist programmer interested in cryptography in general, including cryptocurrencies.
 
 ## Projects
 ### Stuff I'm Working On
