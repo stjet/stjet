@@ -5,6 +5,7 @@ Hi!
 - Atom of Truth, online newspaper
 - Vehicle Search, self explanatory
 - Chess Online, self explanatory
+- Frederick The Great 2024 Presidential Campaign Website, self explanatory
 ### Stuff I Help Work On
 - [Repldex](https://github.com/mat-1/Repldex)
 
