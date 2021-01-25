@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi! 
 
-<!--
-**jetstream0/jetstream0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+### Stuff I'm Working On
+- Atom of Truth, online newspaper
+- Vehicle Search, self explanatory
+- Chess Online, self explanatory
+### Stuff I Help Work On
+- [Repldex](https://github.com/mat-1/Repldex)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+### Know Fairly Well
+- Python
+- Javascript (including Node.js)
+### Know a Fair Bit
+- HTML, CSS (Not really languages, but whatever)
+### Learning
+- Rust
