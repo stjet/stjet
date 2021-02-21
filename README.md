@@ -8,10 +8,9 @@ None
 - Vehicle Search, self explanatory
 - Chess Online, self explanatory
 - Arvald Game, a grand strategy webgame set in the fictional Arvald universe
-- Frederick The Great 2024 Presidential Campaign Website, self explanatory
+- Tune Creator, a tile based tune creator 
 ### Stuff I Help Work On
 - [Repldex](https://github.com/mat-1/Repldex)
-
 ## Languages
 ### Know Fairly Well
 - Python
