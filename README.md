@@ -4,7 +4,7 @@ Hi! I'm a hobbyist programmer interested in cryptography in general, including c
 ### Cool Stuff I Made
 None 
 ### Kind of Cool Stuff I Made
-- Proxy Bridge, a website to Discord bridge
+- [Proxy Bridge](https://github.com/jetstream0/Discord-Proxy), a website to Discord bridge
 ### Stuff I'm Working On
 - [Atom of Truth](https://github.com/jetstream0/Atom-of-Truth), online newspaper
 - Vehicle Search, self explanatory
