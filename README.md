@@ -2,7 +2,7 @@ Hi! I'm a hobbyist programmer interested in cryptography in general, including c
 
 ## Projects
 ### Cool Stuff I Made
-None 
+None :( 
 ### Kind of Cool Stuff I Made
 - [Proxy Bridge](https://github.com/jetstream0/Discord-Proxy), a website to Discord bridge
 ### Stuff I'm Working On
