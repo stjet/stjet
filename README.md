@@ -1,4 +1,5 @@
-Hi! I'm a hobbyist programmer interested in cryptography, and image manipulation.
+Hi! I'm a hobbyist programmer interested in cryptography, image manipulation, and contributing to open source projects.
+
 Most projects and other information at https://prussia.dev.
 
 Gists: https://gist.github.com/jetstream0
